@@ -17,6 +17,6 @@ while True:
       mpdraw.draw_landmarks(img, i, mpface.FACE_CONNECTIONS,drawspec,drawspec)
     else:
      continue
-    cv2.putText(img, str(len(results.multi_face_landmarks)), (50,50), cv2.FONT_HERSHEY_SIMPLEX,1,(255,0,0), 3)
+    cv2.putText(img, str(len(results.multi_face_landmarks)), (90,120), cv2.FONT_HERSHEY_SIMPLEX,5,(255,100,255), 15)
     cv2.imshow("Image", img)
     cv2.waitKey(1)
