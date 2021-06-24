@@ -9,5 +9,5 @@ $ pip install mediapipe
 
 # How to run mpfacecount.py
 
-# python mpfacecount.py
+$ python mpfacecount.py
 
