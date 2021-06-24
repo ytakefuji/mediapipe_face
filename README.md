@@ -7,14 +7,16 @@ This repository shows how to use mediapile library for multiple face recognition
 
 $ pip install mediapipe
 
-# How to run mpfacecount.py
-mpfacecount.py is a program to detect multiple faces and count the number of faces.
+# How to run mpfacecount.py and extface2.py
+
+mpfacecount.py is a program based on mediapipe to detect multiple faces 
+and count the number of faces.
 
 $ python mpfacecount.py
 
 extface.py is a program for extracting a single face.
 
-$ python extface.py
+$ python extface2.py
 
 
 
