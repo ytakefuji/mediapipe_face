@@ -18,5 +18,7 @@ extface.py is a program for extracting a single face.
 
 $ python extface2.py
 
+<img src='r.gif' width=640 height=240>
+
 
 
