@@ -14,7 +14,7 @@ and count the number of faces.
 
 $ python mpfacecount.py
 
-extface.py is a program for extracting a single face.
+extface2.py is a program for extracting a single face from a video stream.
 
 $ python extface2.py
 
