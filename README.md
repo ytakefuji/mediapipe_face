@@ -1,4 +1,4 @@
-# mediapip_face
+# mediapipe_face
 
 mediapipe is a library for recognizing human behaviors. 
 This repository shows how to use mediapile library for multiple face recognition.
