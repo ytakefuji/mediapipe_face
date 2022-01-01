@@ -20,5 +20,7 @@ $ python extface2.py
 
 <img src='r.gif' width=640 height=240>
 
+# Exercises
 
+Create a program for extracting a right eye.
 
